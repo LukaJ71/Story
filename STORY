@@ -1,0 +1,17 @@
+[33mcommit de2235a053a40348954892056afcf4c718717c13[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32malien-plot[m[33m)[m
+Author: unknown <you@example.com>
+Date:   Sun Mar 17 20:01:09 2024 +0100
+
+    modifiy chapter 1 and 2 to alian theme
+
+[33mcommit 4b82580ffaf93a2d6594487265aebdf72cb87cbb[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: unknown <you@example.com>
+Date:   Sun Mar 17 15:00:39 2024 +0100
+
+    Complete Chapter 2
+
+[33mcommit d336baf6c66c2dca413cabc86821bcff49c69a80[m
+Author: unknown <you@example.com>
+Date:   Sun Mar 17 14:56:44 2024 +0100
+
+    Complete Chapter 1
